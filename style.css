@@ -7,8 +7,7 @@ body{
   height: 250px;
   padding-top: 75px;
   background-image: url(drukletters.jpg);
-  margin-top: none;
-  margin-bottom: 15px;
+  background-size: cover;
 }
 
 .bg-fej h1{
@@ -49,3 +48,6 @@ img {
   width: 100%;
 }
 
+#szelesseg {
+  margin: 0 auto 15px auto;
+}
