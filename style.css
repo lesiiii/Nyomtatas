@@ -7,6 +7,8 @@ body{
   height: 250px;
   padding-top: 75px;
   background-image: url(drukletters.jpg);
+  margin-top: none;
+  margin-bottom: 15px;
 }
 
 .bg-fej h1{
